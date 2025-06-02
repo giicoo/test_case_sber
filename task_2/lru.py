@@ -5,9 +5,9 @@ class Cache:
     value: Any
     used_c: int
 
-    def __init__(self, value: Any):
+    def __init__(self, value: Any, used_c:int=1):
         self.value=value
-        self.used_c=1
+        self.used_c=used_c
     
     def __repr__(self):
         return f"Cache(value={self.value}, used_c={self.used_c})"
@@ -44,24 +44,27 @@ class LRUCache:
                       min_c=v.used_c
                 del self.cache[del_k]
                 self.cache[key]=Cache(value=value)
-
+        else:
+            cache = self.get(key)
+            self.cache[key]=Cache(value=value, used_c=cache.used_c)
             
 
     
     def __len__(self):
         return len(self.cache)
 
-# lru = LRUCache(2)
-# lru.put("124", "124")
+lru = LRUCache(2)
+lru.put("124", "124")
 
-# lru.put("122", "122")
-# print(repr(lru.get("122")))
+lru.put("122", "122")
+print(repr(lru.get("122")))
 
-# print(lru.cache)
+print(lru.cache)
 
-# lru.put(1222, "1222")
-# print(lru.get(1222))
+lru.put(1222, "1222")
+print(lru.get(1222))
+lru.put(1222, "12222")
 
-# print(lru.cache)
-# print(len(lru))
+print(lru.cache)
+print(len(lru))
 
