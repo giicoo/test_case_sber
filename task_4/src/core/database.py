@@ -4,10 +4,11 @@ from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy.ext.asyncio import create_async_engine
 from src.core.logging import Logger
 from src.models.links import Base
+from src.core.environment import DB_URL
 
 
 async def connect_to_db():
-    engine = create_async_engine('sqlite+aiosqlite:///store.db')
+    engine = create_async_engine(DB_URL)
     async with engine.begin() as conn:
         await conn.run_sync(Base.metadata.create_all)
     AsyncSession = async_sessionmaker(bind=engine)
