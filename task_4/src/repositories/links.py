@@ -17,7 +17,7 @@ class Repository:
             await self.session.commit()
         except Exception as e:
             await self.session.rollback()
-            raise Exception(f"repo: update link: {e}")
+            raise Exception(f"repo: create link: {e}")
     
     async def get_link_by_code(self, short_code:str) -> Link:
         try:
@@ -26,6 +26,8 @@ class Repository:
             result = await self.session.execute(stmt)
             linkDB = result.scalar_one_or_none()
 
+            if not linkDB: return None
+
             link = Link(id=linkDB.id,
                         original_url=linkDB.original_url,
                         short_code=linkDB.short_code,
@@ -34,7 +36,7 @@ class Repository:
             return link
         except Exception as e:
             await self.session.rollback()
-            raise Exception(f"repo: update link: {e}")
+            raise Exception(f"repo: get by code link: {e}")
     
     async def get_link_by_url(self, url:str) -> Link:
         try:
@@ -43,6 +45,8 @@ class Repository:
             result = await self.session.execute(stmt)
             linkDB = result.scalar_one_or_none()
 
+            if not linkDB: return None
+
             link = Link(id=linkDB.id,
                         original_url=linkDB.original_url,
                         short_code=linkDB.short_code,
@@ -51,7 +55,7 @@ class Repository:
             return link
         except Exception as e:
             await self.session.rollback()
-            raise Exception(f"repo: update link: {e}")
+            raise Exception(f"repo: get by url link: {e}")
 
     
     async def delete_link(self, short_code:str) -> Link:
@@ -60,17 +64,21 @@ class Repository:
             result = await self.session.execute(stmt)
             linkDB = result.scalar_one_or_none()
 
+            if not linkDB: return None
+            
             await self.session.delete(linkDB)
             await self.session.commit()
         except Exception as e:
             await self.session.rollback()
-            raise Exception(f"repo: update link: {e}")
+            raise Exception(f"repo: delete link: {e}")
 
     async def update_clicks(self, short_code:str):
         try:
             stmt = select(LinkModel).filter_by(short_code=short_code)
             result = await self.session.execute(stmt)
             linkDB = result.scalar_one_or_none()
+
+            if not linkDB: return None
 
             linkDB.clicks+=1
             await self.session.commit()
