@@ -1,0 +1,1 @@
+from src.domain.links import Link
