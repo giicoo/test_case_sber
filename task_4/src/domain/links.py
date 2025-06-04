@@ -3,8 +3,8 @@ from datetime import datetime
 
 @dataclass
 class Link:
-    id: int
-    original_url: str 
-    short_code: str
-    clicks: int
+    id: int = 0
+    original_url: str = None
+    short_code: str = None
+    clicks: int = 0
     created_at: datetime = field(default_factory=datetime.now)
