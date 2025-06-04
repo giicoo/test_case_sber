@@ -36,7 +36,7 @@ for i in matches:
         d["runtime"]+=[None]
         d["genres"]+=[None]
 
-with open("top250_raw.csv", "w") as file:
+with open("./task_3/top250_raw.csv", "w") as file:
     pd.DataFrame(d).to_csv(file)
 
 #138

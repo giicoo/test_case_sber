@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 
 def prepare():
-    with open("top250_raw.csv") as file:
+    with open("./task_3/top250_raw.csv") as file:
         dt = pd.read_csv(file)
 
     votes =[]
