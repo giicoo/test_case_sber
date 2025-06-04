@@ -1,0 +1,251 @@
+id,title,year,rating,votes,runtime,genres
+0,The Shawshank Redemption,1994,9.3,3.1M,2h 22m,Epic
+1,The Godfather,1972,9.2,2.1M,2h 55m,Epic
+2,The Dark Knight,2008,9.0,3M,2h 32m,Action Epic
+3,The Godfather Part II,1974,9.0,1.4M,3h 22m,Epic
+4,De 12 gezworenen,1957,9.0,929K,1h 36m,Legal Drama
+5,The Lord of the Rings: The Return of the King,2003,9.0,2.1M,3h 21m,Action Epic
+6,Schindler's List,1993,9.0,1.5M,3h 15m,Docudrama
+7,Pulp Fiction,1994,8.9,2.3M,2h 34m,Dark Comedy
+8,The Lord of the Rings: The Fellowship of the Ring,2001,8.9,2.1M,2h 58m,Action Epic
+9,"The Good, the Bad and the Ugly",1966,8.8,856K,2h 41m,Adventure Epic
+10,Forrest Gump,1994,8.8,2.4M,2h 22m,Epic
+11,The Lord of the Rings: The Two Towers,2002,8.8,1.9M,2h 59m,Action Epic
+12,Fight Club,1999,8.8,2.5M,2h 19m,Psychological Drama
+13,Inception,2010,8.8,2.7M,2h 28m,Action Epic
+14,Star Wars: Episode V - The Empire Strikes Back,1980,8.7,1.4M,2h 4m,Action Epic
+15,The Matrix,1999,8.7,2.2M,2h 16m,Action Epic
+16,Goodfellas,1990,8.7,1.3M,2h 25m,Docudrama
+17,Interstellar,2014,8.7,2.4M,2h 49m,Adventure Epic
+18,One Flew Over the Cuckoo's Nest,1975,8.7,1.1M,2h 13m,Medical Drama
+19,Seven,1995,8.6,1.9M,2h 7m,Cop Drama
+20,It's a Wonderful Life,1946,8.6,529K,2h 10m,Feel-Good Romance
+21,The Silence of the Lambs,1991,8.6,1.6M,1h 58m,Police Procedural
+22,Shichinin no samurai,1954,8.6,386K,3h 27m,Action Epic
+23,Saving Private Ryan,1998,8.6,1.6M,2h 49m,Epic
+24,Cidade de Deus,2002,8.6,839K,2h 10m,Caper
+25,The Green Mile,1999,8.6,1.5M,3h 9m,Period Drama
+26,Het leven is mooi,1997,8.6,780K,1h 56m,Period Drama
+27,Terminator 2: Judgment Day,1991,8.6,1.2M,2h 17m,Action Epic
+28,Star Wars: Episode IV: A New Hope,1977,8.6,1.5M,2h 1m,Action Epic
+29,Back to the Future,1985,8.5,1.4M,1h 56m,High-Concept Comedy
+30,Spirited Away: De reis van Chihiro,2001,8.6,913K,2h 4m,Anime
+31,The Pianist,2002,8.5,970K,2h 30m,Docudrama
+32,Gladiator,2000,8.5,1.8M,2h 35m,Action Epic
+33,Gisaengchung,2019,8.5,1.1M,2h 12m,Dark Comedy
+34,Psycho,1960,8.5,754K,1h 49m,Dark Comedy
+35,The Lion King,1994,8.5,1.2M,1h 28m,Animal Adventure
+36,Grave of the Fireflies,1988,8.5,351K,1h 28m,Adult Animation
+37,The Departed,2006,8.5,1.5M,2h 31m,Cop Drama
+38,Whiplash,2014,8.5,1.1M,1h 46m,Psychological Drama
+39,Seppuku,1962,8.6,80K,2h 13m,Period Drama
+40,The Prestige,2006,8.5,1.5M,2h 10m,Period Drama
+41,American History X,1998,8.5,1.2M,1h 59m,Prison Drama
+42,Léon,1994,8.5,1.3M,1h 50m,Gangster
+43,Spider-Man: Across the Spider-Verse,2023,8.5,459K,2h 20m,Computer Animation
+44,Casablanca,1942,8.5,633K,1h 42m,Psychological Drama
+45,The Usual Suspects,1995,8.5,1.2M,1h 46m,Caper
+46,Intouchables,2011,8.5,981K,1h 52m,Docudrama
+47,Cinema Paradiso,1988,8.5,302K,2h 54m,Coming-of-Age
+48,Alien,1979,8.5,1M,1h 57m,Alien Invasion
+49,Modern Times,1936,8.5,274K,1h 27m,Romantic Comedy
+50,Rear Window,1954,8.5,548K,1h 52m,Psychological Thriller
+51,Once Upon a Time in the West,1968,8.5,369K,2h 46m,Desert Adventure
+52,Django Unchained,2012,8.5,1.8M,2h 45m,Dark Comedy
+53,City Lights,1931,8.5,207K,1h 27m,Feel-Good Romance
+54,Apocalypse Now,1979,8.4,744K,2h 27m,Adventure Epic
+55,Dune: Part Two,2024,8.5,636K,2h 46m,Action Epic
+56,WALL-E,2008,8.4,1.3M,1h 38m,Adventure Epic
+57,Memento,2000,8.4,1.4M,1h 53m,Psychological Thriller
+58,Indiana Jones and the Raiders of the Lost Ark,1981,8.4,1.1M,1h 55m,Adventure Epic
+59,Das Leben der Anderen,2006,8.4,428K,2h 17m,Political Thriller
+60,Avengers: Infinity War,2018,8.4,1.3M,2h 29m,Space Sci-Fi
+61,Sunset Boulevard,1950,8.4,249K,1h 50m,Dark Comedy
+62,Spider-Man: Een nieuw universum,2018,8.4,734K,1h 57m,Computer Animation
+63,Witness for the Prosecution,1957,8.4,150K,1h 56m,Legal Drama
+64,Het veld van eer,1957,8.4,227K,1h 28m,Epic
+65,The Shining,1980,8.4,1.2M,2h 26m,Psychological Drama
+66,De dictator,1940,8.4,249K,2h 5m,Parody
+67,12th Fail,2023,8.7,149K,2h 27m,Docudrama
+68,Inglourious Basterds,2009,8.4,1.7M,2h 33m,Dark Comedy
+69,Aliens,1986,8.4,810K,2h 17m,Alien Invasion
+70,The Dark Knight Rises,2012,8.4,1.9M,2h 44m,Action Epic
+71,Coco,2017,8.4,652K,1h 45m,Computer Animation
+72,Amadeus,1984,8.4,450K,2h 40m,Costume Drama
+73,Toy Story,1995,8.3,1.1M,1h 21m,Buddy Comedy
+74,Avengers: Endgame,2019,8.4,1.4M,3h 1m,Space Sci-Fi
+75,Good Will Hunting,1997,8.3,1.1M,2h 6m,Coming-of-Age
+76,Old Boy,2003,8.3,681K,2h,Dark Comedy
+77,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.3,539K,1h 35m,Dark Comedy
+78,Das Boot,1981,8.4,280K,2h 29m,Epic
+79,Braveheart,1995,8.3,1.1M,2h 58m,Action Epic
+80,American Beauty,1999,8.3,1.3M,2h 2m,Psychological Drama
+81,Princess Mononoke,1997,8.3,462K,2h 13m,Action Epic
+82,High and Low,1963,8.4,61K,2h 23m,Police Procedural
+83,Your Name,2016,8.4,359K,1h 46m,Anime
+84,3 Idiots,2009,8.4,460K,2h 50m,Buddy Comedy
+85,Joker,2019,8.3,1.6M,2h 2m,Psychological Drama
+86,Once Upon a Time in America,1984,8.3,396K,3h 49m,Dark Comedy
+87,Capernaum,2018,8.4,117K,2h 6m,Coming-of-Age
+88,Singin' in the Rain,1952,8.3,273K,1h 43m,Classic Musical
+89,Idi i smotri,1985,8.3,113K,2h 22m,Epic
+90,Requiem for a Dream,2000,8.3,941K,1h 42m,Psychological Drama
+91,Star Wars: Episode VI - Return of the Jedi,1983,8.3,1.2M,2h 11m,Action Epic
+92,Toy Story 3,2010,8.3,934K,1h 43m,Computer Animation
+93,The Hunt,2012,8.3,389K,1h 55m,Psychological Drama
+94,Ikiru,1952,8.3,97K,2h 23m,Psychological Drama
+95,Eternal Sunshine of the Spotless Mind,2004,8.3,1.1M,1h 48m,Dark Romance
+96,Hababam Sinifi: Sinifta Kaldi,1975,8.7,27K,1h 35m,Satire
+97,2001: Een zwerftocht in de ruimte,1968,8.3,755K,2h 29m,Adventure Epic
+98,Incendies,2010,8.3,229K,2h 11m,Suspense Mystery
+99,Reservoir Dogs,1992,8.3,1.1M,1h 39m,Gangster
+100,Het appartement,1960,8.3,209K,2h 5m,Farce
+101,Lawrence of Arabia,1962,8.3,330K,3h 47m,Adventure Epic
+102,Scarface,1983,8.3,968K,2h 50m,Drug Crime
+103,Bloedgeld,1944,8.3,175K,1h 47m,Film Noir
+104,Heat,1995,8.3,760K,2h 50m,Action Epic
+105,North by Northwest,1959,8.3,361K,2h 16m,Spy
+106,Up,2009,8.3,1.2M,1h 36m,Coming-of-Age
+107,Citizen Kane,1941,8.3,482K,1h 59m,Epic
+108,M - Eine Stadt sucht einen Mörder,1931,8.3,177K,1h 57m,Psychological Thriller
+109,Full Metal Jacket,1987,8.2,823K,1h 56m,Dark Comedy
+110,Vertigo,1958,8.2,446K,2h 8m,Psychological Thriller
+111,Le fabuleux destin d'Amélie Poulain,2001,8.3,820K,2h 2m,Feel-Good Romance
+112,A Separation,2011,8.3,270K,2h 3m,Legal Drama
+113,Taare Zameen Par,2007,8.3,218K,2h 42m,Coming-of-Age
+114,To Kill a Mockingbird,1962,8.3,344K,2h 9m,Legal Drama
+115,A Clockwork Orange,1971,8.2,913K,2h 16m,Dark Comedy
+116,Die Hard,1988,8.2,992K,2h 12m,Disaster
+117,The Sting,1973,8.2,291K,2h 9m,Caper
+118,Indiana Jones and the Last Crusade,1989,8.2,840K,2h 7m,Adventure Epic
+119,Oppenheimer,2023,8.3,897K,3h,Docudrama
+120,Metropolis,1927,8.3,195K,2h 33m,Dystopian Sci-Fi
+121,Snatch,2000,8.2,948K,1h 44m,Caper
+122,1917,2019,8.2,730K,1h 59m,Epic
+123,L.A. Confidential,1997,8.2,642K,2h 18m,Conspiracy Thriller
+124,Ladri di biciclette,1948,8.2,186K,1h 29m,Tragedy
+125,Der Untergang,2004,8.2,389K,2h 36m,Docudrama
+126,Dangal,2016,8.3,227K,2h 41m,Coming-of-Age
+127,The Wolf of Wall Street,2013,8.2,1.7M,3h,Dark Comedy
+128,Hamilton,2020,8.3,128K,2h 40m,Epic
+129,Taxi Driver,1976,8.2,981K,1h 54m,Psychological Drama
+130,Green Book,2018,8.2,638K,2h 10m,Docudrama
+131,Batman Begins,2005,8.2,1.6M,2h 20m,Action Epic
+132,The Truman Show,1998,8.2,1.3M,1h 43m,Dark Comedy
+133,For a Few Dollars More,1965,8.2,289K,2h 12m,One-Person Army Action
+134,Oordeel te Neurenberg,1961,8.3,92K,2h 59m,Legal Drama
+135,Some Like It Hot,1959,8.2,296K,2h 1m,Buddy Comedy
+136,Shutter Island,2010,8.2,1.6M,2h 18m,Psychological Thriller
+137,The Kid,1921,8.2,141K,1h 8m,Buddy Comedy
+138,The Father,2020,8.2,214K,1h 37m,Psychological Drama
+139,All About Eve,1950,8.2,145K,2h 18m,Showbiz Drama
+140,Jurassic Park,1993,8.2,1.1M,2h 7m,Dinosaur Adventure
+141,There Will Be Blood,2007,8.2,673K,2h 38m,Epic
+142,The Sixth Sense,1999,8.2,1.1M,1h 47m,Psychological Drama
+143,Casino,1995,8.2,594K,2h 58m,Docudrama
+144,Ran,1985,8.2,144K,2h 40m,Epic
+145,Top Gun: Maverick,2022,8.2,780K,2h 10m,Action Epic
+146,No Country for Old Men,2007,8.2,1.1M,2h 2m,Contemporary Western
+147,The Thing,1982,8.2,500K,1h 49m,Alien Invasion
+148,Pan's Labyrinth,2006,8.2,726K,1h 58m,Coming-of-Age
+149,Unforgiven,1992,8.2,455K,2h 10m,Period Drama
+150,Kill Bill,2003,8.2,1.3M,1h 51m,Kung Fu
+151,A Beautiful Mind,2001,8.2,1M,2h 15m,Docudrama
+152,The Treasure of the Sierra Madre,1948,8.2,138K,2h 6m,Tragedy
+153,Prisoners,2013,8.2,875K,2h 33m,Psychological Thriller
+154,Yojimbo,1961,8.2,138K,1h 50m,One-Person Army Action
+155,Finding Nemo,2003,8.2,1.2M,1h 40m,Animal Adventure
+156,Howl's Moving Castle,2004,8.2,485K,1h 59m,Adventure Epic
+157,The Great Escape,1963,8.2,269K,2h 52m,Epic
+158,Monty Python and the Holy Grail,1975,8.2,589K,1h 31m,Farce
+159,The Elephant Man,1980,8.2,273K,2h 4m,Docudrama
+160,Dial M for Murder,1954,8.2,198K,1h 45m,Crime
+161,Klaus,2019,8.2,215K,1h 36m,Hand-Drawn Animation
+162,Gejaagd door de wind,1939,8.2,347K,3h 58m,Costume Drama
+163,Chinatown,1974,8.1,366K,2h 10m,Conspiracy Thriller
+164,Rashomon,1950,8.2,190K,1h 28m,Period Drama
+165,El secreto de sus ojos,2009,8.2,233K,2h 9m,Dark Romance
+166,"Lock, Stock and Two Smoking Barrels",1998,8.1,636K,1h 47m,Dark Comedy
+167,V for Vendetta,2005,8.1,1.2M,2h 12m,Dystopian Sci-Fi
+168,Binnenstebuiten,2015,8.1,870K,1h 35m,Coming-of-Age
+169,"Three Billboards Outside Ebbing, Missouri",2017,8.1,584K,1h 55m,Dark Comedy
+170,The Bridge on the River Kwai,1957,8.1,242K,2h 41m,Jungle Adventure
+171,Catch Me If You Can,2002,8.1,1.2M,2h 21m,Caper
+172,Trainspotting,1996,8.1,751K,1h 33m,Dark Comedy
+173,Raging Bull,1980,8.1,396K,2h 9m,Boxing
+174,The Wild Robot,2024,8.2,175K,1h 42m,Artificial Intelligence
+175,Fargo,1996,8.1,758K,1h 38m,Cop Drama
+176,Warrior,2011,8.1,515K,2h 20m,Boxing
+177,Harry Potter and the Deathly Hallows - Part 2,2011,8.1,1M,2h 10m,Dark Fantasy
+178,Gran Torino,2008,8.1,841K,1h 56m,Drama
+179,Million Dollar Baby,2004,8.1,747K,2h 12m,Boxing
+180,Ben Hur,1959,8.1,264K,3h 32m,Adventure Epic
+181,Mad Max: Fury Road,2015,8.1,1.2M,2h,Action Epic
+182,My Neighbor Totoro,1988,8.1,409K,1h 26m,Anime
+183,Barry Lyndon,1975,8.1,194K,3h 5m,Costume Drama
+184,Dead Poets Society,1989,8.1,593K,2h 8m,Coming-of-Age
+185,Spider-Man: No Way Home,2021,8.2,955K,2h 28m,Superhero
+186,Bacheha-ye aseman,1997,8.2,86K,1h 29m,Drama
+187,12 Years a Slave,2013,8.1,766K,2h 14m,Costume Drama
+188,Before Sunrise,1995,8.1,360K,1h 41m,Comedy
+189,Hacksaw Ridge,2016,8.1,639K,2h 19m,Docudrama
+190,The Grand Budapest Hotel,2014,8.1,929K,1h 39m,Quirky Comedy
+191,Blade Runner,1982,8.1,855K,1h 57m,Artificial Intelligence
+192,Gone Girl,2014,8.1,1.1M,2h 29m,Erotic Thriller
+193,Salinui chueok,2003,8.1,243K,2h 11m,Dark Comedy
+194,Ratatouille,2007,8.1,888K,1h 51m,Animal Adventure
+195,"Monsters, Inc.",2001,8.1,1M,1h 32m,Buddy Comedy
+196,In the Name of the Father,1993,8.1,196K,2h 13m,Docudrama
+197,How to Train Your Dragon,2010,8.1,846K,1h 38m,Computer Animation
+198,Relatos salvajes,2014,8.1,229K,2h 2m,Dark Comedy
+199,The Gold Rush,1925,8.1,124K,1h 35m,Farce
+200,Sherlock Jr.,1924,8.2,62K,45m,Bumbling Detective
+201,De zomer van de witte haai,1975,8.1,696K,2h 4m,Monster Horror
+202,Mary and Max,2009,8.1,197K,1h 32m,Adult Animation
+203,Le Mans '66,2019,8.1,525K,2h 32m,Car Action
+204,The Deer Hunter,1978,8.1,376K,3h 3m,Epic
+205,The General,1926,8.1,103K,1h 18m,Farce
+206,Het loon van de Angst,1953,8.1,71K,2h 36m,Psychological Drama
+207,Mr. Smith gaat naar Washington,1939,8.1,126K,2h 9m,Political Drama
+208,On the Waterfront,1954,8.1,173K,1h 48m,Legal Drama
+209,Smultronstället,1957,8.1,121K,1h 32m,Psychological Drama
+210,Logan,2017,8.1,892K,2h 17m,Dystopian Sci-Fi
+211,Rocky,1976,8.1,661K,2h,Boxing
+212,The Third Man,1949,8.1,190K,1h 44m,Film Noir
+213,Tokyo Story,1953,8.1,74K,2h 17m,Psychological Drama
+214,Spotlight,2015,8.1,520K,2h 9m,Docudrama
+215,The Big Lebowski,1998,8.1,892K,1h 57m,Buddy Comedy
+216,The Terminator,1984,8.1,967K,1h 47m,Artificial Intelligence
+217,Maharaja,2024,8.4,69K,2h 21m,One-Person Army Action
+218,Pirates of the Caribbean: The Curse of the Black Pearl,2003,8.1,1.3M,2h 23m,Sea Adventure
+219,Det sjunde inseglet,1957,8.1,209K,1h 36m,Psychological Drama
+220,Room,2015,8.1,469K,1h 58m,Psychological Drama
+221,La haine,1995,8.1,213K,1h 38m,Gangster
+222,Jai Bhim,2021,8.6,226K,2h 44m,Legal Drama
+223,Hotel Rwanda,2004,8.1,384K,2h 1m,Docudrama
+224,Platoon,1986,8.1,457K,2h,Drama
+225,De beste jaren van ons leven,1946,8.1,75K,2h 50m,Epic
+226,Before Sunset,2004,8.1,303K,1h 20m,Feel-Good Romance
+227,The Exorcist,1973,8.1,479K,2h 2m,Body Horror
+228,The Sound of Music,1965,8.1,277K,2h 52m,Classic Musical
+229,La passion de Jeanne d'Arc,1928,8.1,65K,1h 50m,Legal Drama
+230,The Incredibles,2004,8.0,857K,1h 55m,Computer Animation
+231,The Wizard of Oz,1939,8.1,451K,1h 42m,Adventure Epic
+232,I'm Still Here,2024,8.2,111K,2h 17m,Docudrama
+233,Hachi,2009,8.1,329K,1h 33m,Animal Adventure
+234,Rush,2013,8.1,536K,2h 3m,Docudrama
+235,Stand by Me,1986,8.1,465K,1h 29m,Coming-of-Age
+236,Babam ve Oglum,2005,8.2,98K,1h 52m,Coming-of-Age
+237,Network,1976,8.1,180K,2h 1m,Dark Comedy
+238,De IJzeren reus,1999,8.1,246K,1h 26m,Alien Invasion
+239,Ah-ga-ssi,2016,8.1,189K,2h 25m,Dark Romance
+240,A Silent Voice,2016,8.1,122K,2h 10m,Anime
+241,De slag om Algiers,1966,8.1,71K,2h 1m,Docudrama
+242,Spionnage in het spel,1942,8.1,47K,1h 39m,Screwball Comedy
+243,The Grapes of Wrath,1940,8.1,105K,2h 9m,Period Drama
+244,Into the Wild,2007,8.0,680K,2h 28m,Coming-of-Age
+245,Groundhog Day,1993,8.0,718K,1h 41m,Feel-Good Romance
+246,The Help,2011,8.1,514K,2h 26m,Period Drama
+247,Gangs of Wasseypur,2012,8.2,108K,5h 21m,Gangster
+248,Amores perros,2000,8.0,268K,2h 34m,Tragedy
+249,Drishyam,2015,8.2,102K,2h 43m,Suspense Mystery
