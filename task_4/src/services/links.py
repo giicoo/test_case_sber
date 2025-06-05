@@ -48,6 +48,8 @@ class LinkService:
     async def get_link_with_clicks(self, short_code: str) -> str:
         try:
             linkDB = await self.repo.get_link_by_code(short_code)
+            if not linkDB: 
+                return None
             await self.repo.update_clicks(short_code)
             return linkDB.original_url
         except Exception as e:
@@ -61,7 +63,7 @@ class LinkService:
             await self.repo.delete_link(short_code)
             return "success"
         except Exception as e:
-            Logger.error(f"service: create: {e}")
+            Logger.error(f"service: delete: {e}")
     
 
 def get_service(repo: Repository = Depends(get_repo)):
