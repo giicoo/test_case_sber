@@ -7,6 +7,9 @@ from src.domain import Link
 from src.core.logging import Logger
 
 class Repository:
+    '''
+    НЕПРАВИЛЬНО. Оно работает все, но узнал только после сдачи, что я неправильно делал, нужно создавать сессию для каждого запроса, а не использовать общую.
+    '''
     def __init__(self, session: AsyncSession):
         self.session = session
     
