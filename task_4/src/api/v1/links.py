@@ -15,7 +15,7 @@ async def health():
     return {"status": "ok"} 
 
 @LinkRouter.post("/")
-async def create_chat(link: LinkIn, linkService: LinkService = Depends(get_service)):
+async def create_link(link: LinkIn, linkService: LinkService = Depends(get_service)):
     
     short_code = await linkService.create_link(link=Link(original_url=link.original_url))
   

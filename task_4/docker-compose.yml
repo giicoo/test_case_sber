@@ -10,7 +10,7 @@ services:
       - 8000:8000
   
   db:
-    image: postgis/postgis:latest #тут использую этот образ, так как уже установлен на пк был, по-хорошему надо обычно postgres
+    image: postgres #тут использую этот образ, так как уже установлен на пк был, по-хорошему надо обычно postgres
     environment:
       POSTGRES_USER: admin
       POSTGRES_PASSWORD: admin

@@ -12,13 +12,9 @@ async def connect_to_db():
     async with engine.begin() as conn:
         await conn.run_sync(Base.metadata.create_all)
     AsyncSession = async_sessionmaker(bind=engine)
-    session = AsyncSession()
     Logger.info("DB connected")
-    return session
+    return AsyncSession
 
-async def close_db_connection(session: AsyncSession):
-    await session.close()
-    Logger.info("DB connection closed")
 
 def get_db(request: Request)-> AsyncSession:
     return request.app.state.db_session
